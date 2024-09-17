@@ -12,6 +12,8 @@
 
 </details>
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 <!--
 **Zier0Code/Zier0Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
