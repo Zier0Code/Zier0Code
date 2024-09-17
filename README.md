@@ -1,13 +1,16 @@
 ## Hi there 👋 I'm Angelo
 
-Here are the list of my interests in programming languages.
-
+<details>
+<summary>My top languages</summary>
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
 |     2| Python    |
 |     3| PHP       |
 |     4| SQL       |
+
+</details>
+
 <!--
 **Zier0Code/Zier0Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
