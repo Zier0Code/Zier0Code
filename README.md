@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+I'm Angelo. You might recognize me as GitHub's mascot.
 
 | Rank | Languages |
 |-----:|-----------|
