@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Angelo
 
-I'm Angelo. You might recognize me as GitHub's mascot.
+Here are the list of my interests in programming languages.
 
 | Rank | Languages |
 |-----:|-----------|
