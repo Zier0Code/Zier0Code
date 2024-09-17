@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Angelo
 
+> [!NOTE]
+> I'm an aspiring Data Scientist and Full Stack Developer.
+
+
 <details>
 <summary>My top languages</summary>
   
@@ -12,8 +16,7 @@
 
 </details>
 
-> [!NOTE]
-> I'm an aspiring Data Scientist and Full Stack Developer.
+
 <!--
 **Zier0Code/Zier0Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
