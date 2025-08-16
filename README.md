@@ -1,66 +1,129 @@
-## Hi there 👋 I'm Angelo
+# Hi there, I'm Angelo 👋
 
-💻 Software Developer | Open Source Contributor | Tech Enthusiast
-Welcome to my GitHub profile! I'm passionate about building innovative solutions, contributing to open-source projects, and continuously learning new technologies.
+## 🚀 Data Analyst | Software Engineer | Problem Solver
 
+I'm passionate about turning data into actionable insights and building scalable software solutions. With expertise spanning data science, analytics, and full-stack development, I bridge the gap between technical implementation and business intelligence.
 
-<details>
-<summary>🔧 Technologies & Tools</summary>
+---
 
-  Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+### 🔍 What I Do
 
-Frontend
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+**Data Analytics & Science**
+- Extract insights from complex datasets using statistical analysis and machine learning
+- Build predictive models and recommendation systems
+- Create interactive dashboards and data visualizations
+- Design and implement ETL pipelines for data processing
 
-Backend
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+**Software Engineering**
+- Develop scalable web applications and APIs
+- Build data-driven applications with real-time analytics
+- Implement CI/CD pipelines and cloud infrastructure
+- Create automated testing and monitoring solutions
 
-Databases
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+---
 
-DevOps & Cloud
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+### 🛠️ Tech Stack
 
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
+**Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical
+**Data Science & Analytics**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-📫 Let's Connect!
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-</details>
+**Visualization & BI Tools**
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 
+**Web Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-<!--
-**Zier0Code/Zier0Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+#### 📈 [Customer Churn Prediction Model](https://github.com/yourusername/customer-churn-prediction)
+- Built a machine learning pipeline predicting customer churn with 94% accuracy
+- Technologies: Python, Scikit-learn, Pandas, Flask
+- Deployed interactive dashboard for business stakeholders
+
+#### 🌐 [Real-time Analytics Dashboard](https://github.com/yourusername/realtime-analytics-dashboard)
+- Full-stack web application with live data visualization
+- Technologies: React, Node.js, WebSocket, D3.js, PostgreSQL
+- Processes 10K+ data points per minute with sub-second latency
+
+#### 🔍 [E-commerce Recommendation Engine](https://github.com/yourusername/recommendation-engine)
+- Collaborative filtering system increasing user engagement by 35%
+- Technologies: Python, TensorFlow, Apache Spark, AWS
+- Handles 1M+ products with real-time recommendations
+
+#### 📊 [Sales Forecasting Platform](https://github.com/yourusername/sales-forecasting)
+- Time series analysis tool for revenue prediction
+- Technologies: R, Shiny, Prophet, Docker
+- Achieved MAPE of 8.5% across multiple product categories
+
+---
+
+### 🎯 Current Focus
+
+- 🔬 Exploring advanced deep learning techniques for time series forecasting
+- ☁️ Learning cloud-native data engineering with Kubernetes and Apache Airflow
+- 📱 Building cross-platform analytics applications with React Native
+- 🧠 Contributing to open-source machine learning libraries
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)](https://github.com/YourUsername)
+
+---
+
+### 🎵 Fun Fact
+When I'm not analyzing data or coding, you can find me exploring new coffee shops ☕ or hiking local trails 🥾. I believe the best insights come from both data and real-world experiences!
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+**"Data is the new oil, but analytics is the refinery."** 📊✨
