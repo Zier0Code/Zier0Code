@@ -64,7 +64,7 @@ I'm passionate about turning data into actionable insights and building scalable
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zier0Code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Zier0Code=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zier0Code&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
@@ -112,7 +112,7 @@ I'm passionate about turning data into actionable insights and building scalable
 
 ### 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)](https://github.com/Zier0Code)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zier0Code&theme=tokyo-night)](https://github.com/Zier0Code)
 
 ---
 
@@ -122,7 +122,7 @@ When I'm not analyzing data or coding, you can find me exploring new coffee shop
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Zier0Code&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 **"Data is the new oil, but analytics is the refinery."** 📊✨
