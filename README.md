@@ -76,20 +76,7 @@ I'm passionate about turning data into actionable insights and building scalable
 - Technologies: Python, Scikit-learn, Pandas, Flask, ReactJS, NLP
 - Deployed interactive dashboard for the stakeholders and users
 
-#### 🌐 [Real-time Analytics Dashboard](https://github.com/yourusername/realtime-analytics-dashboard)
-- Full-stack web application with live data visualization
-- Technologies: React, Node.js, WebSocket, D3.js, PostgreSQL
-- Processes 10K+ data points per minute with sub-second latency
 
-#### 🔍 [E-commerce Recommendation Engine](https://github.com/yourusername/recommendation-engine)
-- Collaborative filtering system increasing user engagement by 35%
-- Technologies: Python, TensorFlow, Apache Spark, AWS
-- Handles 1M+ products with real-time recommendations
-
-#### 📊 [Sales Forecasting Platform](https://github.com/yourusername/sales-forecasting)
-- Time series analysis tool for revenue prediction
-- Technologies: R, Shiny, Prophet, Docker
-- Achieved MAPE of 8.5% across multiple product categories
 
 ---
 
