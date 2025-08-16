@@ -72,9 +72,9 @@ I'm passionate about turning data into actionable insights and building scalable
 ### 🏆 Featured Projects
 
 #### 📈 [Customer Churn Prediction Model](https://github.com/yourusername/customer-churn-prediction)
-- Built a machine learning pipeline predicting customer churn with 94% accuracy
-- Technologies: Python, Scikit-learn, Pandas, Flask
-- Deployed interactive dashboard for business stakeholders
+- Built a chatbot for institution to answer inquiries during peak season with admin panel with an accuracy of 92% and Improvide user satisfaction
+- Technologies: Python, Scikit-learn, Pandas, Flask, ReactJS, NLP
+- Deployed interactive dashboard for the stakeholders and users
 
 #### 🌐 [Real-time Analytics Dashboard](https://github.com/yourusername/realtime-analytics-dashboard)
 - Full-stack web application with live data visualization
@@ -117,7 +117,7 @@ I'm passionate about turning data into actionable insights and building scalable
 ---
 
 ### 🎵 Fun Fact
-When I'm not analyzing data or coding, you can find me exploring new coffee shops ☕ or hiking local trails 🥾. I believe the best insights come from both data and real-world experiences!
+When I'm not analyzing data or coding, you can find me exploring new coffee shops ☕ or traveling to random places 🥾. I believe the best insights come from both data and real-world experiences!
 
 ---
 
